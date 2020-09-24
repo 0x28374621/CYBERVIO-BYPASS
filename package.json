@@ -1,0 +1,16 @@
+{
+  "name": "cybervio-bypass",
+  "version": "1.0.0",
+  "description": "CYBERVIO.COM WAF BYPASS",
+  "main": "flood.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git": "https://github.com/0x28374621/CYBERVIO-BYPASS.git",
+  "author": "0x28374621",
+  "license": "MIT",
+  "dependencies": {
+    "random-useragent": "^0.5.0",
+    "request": "^2.88.2"
+  }
+}
